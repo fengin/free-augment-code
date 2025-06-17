@@ -12,7 +12,7 @@
 
 设备受限，注册新账号使用提示如下
 
-![Augment menu with Sign Out option highlighted](.\images\jetbrians-limit.png)
+![Augment menu with Sign Out option highlighted](images/jetbrians-limit.png)
 
 <mark>本插件不解决账号问题，如果你还能注册新号使用，没必要使用本插件</mark>
 
@@ -30,7 +30,7 @@
 
 ## 0. 退出账号
 
-![Augment menu with Sign Out option highlighted](.\images\exit.png)
+![Augment menu with Sign Out option highlighted](images/exit.png)
 
 ---
 
@@ -44,7 +44,7 @@
 
 File(文件)—>Settings(设置)—>Plugins(插件)—>齿轮图标—>从磁盘安装插件
 
-![loading-ag-189](.\images\install.png)
+![loading-ag-189](images/install.png)
 *
 
 **选择下载的插件 `augment-assistant-1.0.0.jar`**
@@ -55,7 +55,7 @@ File(文件)—>Settings(设置)—>Plugins(插件)—>齿轮图标—>从磁盘
 
 在验证码中输入你获取到的验证码,点击验证。验证通过之后显示“已验证! SessionId 功能已启用”，验证时间视网络几秒至几十秒不等。
 
-![IntelliJ IDEA Settings window showing Augment Helper configuration](.\images\validate.png)
+![IntelliJ IDEA Settings window showing Augment Helper configuration](images/validate.png)
 
 ---
 
